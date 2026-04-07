@@ -2,6 +2,10 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
+apiVersion: v2
+name: go-web-app
+version: 0.1.0
+description: A simple Go web application
 replicaCount: 1
 
 image:
